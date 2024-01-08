@@ -1,0 +1,14 @@
+/Users/mihailkocetov/Projects/Lab_04/bin/Debug/net7.0/Lab_04
+/Users/mihailkocetov/Projects/Lab_04/bin/Debug/net7.0/Lab_04.deps.json
+/Users/mihailkocetov/Projects/Lab_04/bin/Debug/net7.0/Lab_04.runtimeconfig.json
+/Users/mihailkocetov/Projects/Lab_04/bin/Debug/net7.0/Lab_04.dll
+/Users/mihailkocetov/Projects/Lab_04/bin/Debug/net7.0/Lab_04.pdb
+/Users/mihailkocetov/Projects/Lab_04/obj/Debug/net7.0/Lab_04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihailkocetov/Projects/Lab_04/obj/Debug/net7.0/Lab_04.AssemblyInfoInputs.cache
+/Users/mihailkocetov/Projects/Lab_04/obj/Debug/net7.0/Lab_04.AssemblyInfo.cs
+/Users/mihailkocetov/Projects/Lab_04/obj/Debug/net7.0/Lab_04.csproj.CoreCompileInputs.cache
+/Users/mihailkocetov/Projects/Lab_04/obj/Debug/net7.0/Lab_04.dll
+/Users/mihailkocetov/Projects/Lab_04/obj/Debug/net7.0/refint/Lab_04.dll
+/Users/mihailkocetov/Projects/Lab_04/obj/Debug/net7.0/Lab_04.pdb
+/Users/mihailkocetov/Projects/Lab_04/obj/Debug/net7.0/Lab_04.genruntimeconfig.cache
+/Users/mihailkocetov/Projects/Lab_04/obj/Debug/net7.0/ref/Lab_04.dll
